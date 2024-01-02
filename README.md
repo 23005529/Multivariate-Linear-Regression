@@ -1,4 +1,9 @@
 # Implementation of Multivariate Linear Regression
+NAME : ALIYA SHEEMA
+
+REFERENCE NUMBER : 23005529
+
+DEPARTMRNT : AIDS
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
